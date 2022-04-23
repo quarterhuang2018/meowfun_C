@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 我的第一個程式: Hello World
+// My First Program: Hello World
 
 int main(int argc, char *argv[]) {
 	printf("Hello World!");
